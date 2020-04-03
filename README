@@ -1,3 +1,4 @@
+#说明文档
 LIBLINEAR is a simple package for solving large-scale regularized
 linear classification. It currently supports L2-regularized logistic
 regression, L2-loss support vector machines, and L1-loss support
